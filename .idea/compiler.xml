@@ -6,13 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="commontool" />
         <module name="nettyutils" />
+        <module name="utils-netty" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="commontool" target="1.5" />
       <module name="nettyutils" target="1.8" />
+      <module name="utils-netty" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
