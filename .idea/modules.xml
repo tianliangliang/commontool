@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/commontool.iml" filepath="$PROJECT_DIR$/commontool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utils-common/utils-common.iml" filepath="$PROJECT_DIR$/utils-common/utils-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/utils-netty/utils-netty.iml" filepath="$PROJECT_DIR$/utils-netty/utils-netty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utils-test/utils-test.iml" filepath="$PROJECT_DIR$/utils-test/utils-test.iml" />
     </modules>
   </component>
 </project>

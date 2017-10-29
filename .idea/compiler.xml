@@ -7,13 +7,17 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="nettyutils" />
+        <module name="utils-common" />
         <module name="utils-netty" />
+        <module name="utils-test" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="commontool" target="1.5" />
+      <module name="commontool" target="1.6" />
       <module name="nettyutils" target="1.8" />
-      <module name="utils-netty" target="1.5" />
+      <module name="utils-common" target="1.8" />
+      <module name="utils-netty" target="1.6" />
+      <module name="utils-test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
